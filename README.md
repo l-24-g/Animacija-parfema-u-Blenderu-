@@ -30,7 +30,7 @@ Cilj projekta je izrada kratke animacije koja prikazuje bočicu parfema kako pad
 
 Završna animacija prikazuje bočicu parfema kako pada i slijeće na podlogu, nakon čega kamera otkriva finalnu kompoziciju s dvije bočice parfema.
 
-**YouTube:** [Pogledaj animaciju](https://youtu.be/PLACEHOLDER)
+**YouTube:** [Pogledaj animaciju](https://youtu.be/_iAb1qwim10)
 
 ## Tehnički podaci
 
