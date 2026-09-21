@@ -30,7 +30,7 @@ Cilj projekta je izrada kratke animacije koja prikazuje bočicu parfema kako pad
 
 Završna animacija prikazuje bočicu parfema kako pada i slijeće na podlogu, nakon čega kamera otkriva finalnu kompoziciju s dvije bočice parfema.
 
-**YouTube:** [Pogledaj animaciju](https://youtu.be/_iAb1qwim10)
+**Video:** [Animacija_parfema_-_finalni_video.mp4](./Animacija_parfema_-_finalni_video.mp4)
 
 ## Tehnički podaci
 
@@ -41,7 +41,7 @@ Završna animacija prikazuje bočicu parfema kako pada i slijeće na podlogu, na
 
 ## Dokumentacija
 
-- [Seminarski rad](./Seminarski_rad_-_Animacija_parfema_Leona_Grgic.docx)
+- [Seminarski rad](./Seminarski_rad_-_Animacija_parfema_Leona_Grgic.pdf)
 
 ## Autor
 
